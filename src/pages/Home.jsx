@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <>
             <Helmet>
-                <title>soma - Home</title>
+                <title>AnimXer - Home</title>
                 <meta 
                     name='description' 
                     content="Explore Anime Series and Movies"
