@@ -33,7 +33,7 @@ const Footer = () => {
                             target='_blank'
                             rel='noreferrer'
                         >
-                            GitHub
+                            Facebook Page 
                         </a>
                     </li>
                 </ul>
