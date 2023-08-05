@@ -47,7 +47,7 @@ const PopularPage = () => {
     return (
         <section className="popular__page">
             <Helmet>
-                <title>soma - Popular Anime </title>
+                <title>AnimXer - Popular Anime </title>
                 <meta 
                     name='description' 
                     content="Find Popular Anime to watch or stream"
