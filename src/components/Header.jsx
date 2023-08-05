@@ -75,7 +75,7 @@ const Header = () => {
                             <h1 className={`logo ${theme ? 'light' : 'dark'}`}
                                 onClick={() => handleNav('home')}
                             >
-                                soma.
+                                AnimXer
                             </h1>
                         </Link>
                         <ul style={{ 
