@@ -34,7 +34,7 @@ const DMCA = () => {
                     </li>
                 </ul>
                 <p>
-                    Please send your DMCA takedown notice to<a href="messageto: https://www.facebook.com/profile.php?id=100069572806122">Facebook Page</a>. We will promptly investigate and take appropriate action in accordance with the DMCA.
+                    Please send your DMCA takedown notice to<a href="messageto:https://www.facebook.com/profile.php?id=100069572806122">Facebook Page</a>. We will promptly investigate and take appropriate action in accordance with the DMCA.
                 </p>
             </div>
         </section>
