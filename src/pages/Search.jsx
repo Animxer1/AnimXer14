@@ -36,7 +36,7 @@ const About = () => {
     return (
         <section className="search__page">
             {/* <Helmet>
-                <title>soma - Search Results {`for ${query}`} </title>
+                <title>AnimXer - Search Results {`for ${query}`} </title>
                 <meta 
                     name='description' 
                     content="Search for an anime or movie to watch or stream"
