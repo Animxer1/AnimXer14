@@ -98,7 +98,7 @@ const Watch = () => {
         <section id='episode' className='episode'>
             <Helmet>
                 <title>
-                    soma - {`Watch ${animeResult?.anime?.title?.romaji || animeResult?.anime?.title?.english} Episode ${animeResult?.number} - ${animeResult?.title}`}
+                    AnimXer - {`Watch ${animeResult?.anime?.title?.romaji || animeResult?.anime?.title?.english} Episode ${animeResult?.number} - ${animeResult?.title}`}
                     </title>
                 <meta 
                     name='description' 
