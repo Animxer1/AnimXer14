@@ -8,7 +8,7 @@ const DMCA = () => {
                     DMCA Takedown Request
                 </h2>
                 <p>
-                    The anime streaming website (soma) provides links to content hosted by third-party sites. We do not host any of the anime or other content ourselves, and we do not have control over the content hosted on these third-party sites. We simply provide links to these sites as a service to our users.
+                    The anime streaming website (AnimXer) provides links to content hosted by third-party sites. We do not host any of the anime or other content ourselves, and we do not have control over the content hosted on these third-party sites. We simply provide links to these sites as a service to our users.
                 </p>
                 <p>
                     We take copyright infringement very seriously and will promptly remove any content that violates copyright laws or the Digital Millennium Copyright Act (DMCA) when we are notified of such violations. If you believe that any content on our site infringes your copyright or the copyright of someone you represent, please send us a DMCA takedown notice.
@@ -34,7 +34,7 @@ const DMCA = () => {
                     </li>
                 </ul>
                 <p>
-                    Please send your DMCA takedown notice to <a href="mailto: somajsn@gmail.com">somajsn@gmail.com</a>. We will promptly investigate and take appropriate action in accordance with the DMCA.
+                    Please send your DMCA takedown notice to<a href="messageto: https://www.facebook.com/profile.php?id=100069572806122">Facebook Page</a>. We will promptly investigate and take appropriate action in accordance with the DMCA.
                 </p>
             </div>
         </section>
