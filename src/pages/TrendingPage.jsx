@@ -41,7 +41,7 @@ const TrendingPage = () => {
     return (
         <section className="trending__page">
             {/* <Helmet>
-                <title>soma - Trending Anime </title>
+                <title>AnimXer - Trending Anime </title>
                 <meta 
                     name='description' 
                     content="Find out the latest trending anime today!"
