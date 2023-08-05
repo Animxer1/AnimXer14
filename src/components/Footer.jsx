@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='container container__footer'>
                 <h1>
                     <Link to='/'>
-                        soma.
+                        AnimXer
                     </Link>
                 </h1>
                 <ul>
@@ -28,8 +28,8 @@ const Footer = () => {
                         •
                     </li>
                     <li>
-                        <a href='https://github.com/jasondev01/soma' 
-                            className='github-icon'
+                        <a href='https://www.facebook.com/profile.php?id=100069572806122' 
+                            className='Facebook-icon'
                             target='_blank'
                             rel='noreferrer'
                         >
@@ -41,7 +41,7 @@ const Footer = () => {
                     The website does not host any files on its server. Instead, it provides links to media content that are hosted on third-party services.
                 </p>
                 <ul>
-                    <li>&copy; soma.</li>
+                    <li>&copy; AnimXer </li>
                     <li className='bulletpoints'>
                         •
                     </li>
