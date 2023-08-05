@@ -72,7 +72,7 @@ const Info = () => {
     return (
         <>
         <Helmet>
-            <title>soma - {data?.title.romaji || data?.title?.english} </title>
+            <title>AnimXer - {data?.title.romaji || data?.title?.english} </title>
             <meta 
                 name='description' 
                 content={`${data?.title.romaji || data?.title?.english} details`}
