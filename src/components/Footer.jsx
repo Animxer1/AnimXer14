@@ -29,7 +29,7 @@ const Footer = () => {
                     </li>
                     <li>
                         <a href='https://www.facebook.com/profile.php?id=100069572806122' 
-                            className='Facebook-icon'
+                            className='Facebook Page'
                             target='_blank'
                             rel='noreferrer'
                         >
